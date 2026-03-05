@@ -5,7 +5,7 @@
 *DURATION*: 8 WEEKS
 *MENTOR*: NEELA SANTOSH
 *DISCRIPTION*: Description of Basic ALU Design Using Verilog
-
+<img width="1919" height="1074" alt="Image" src="https://github.com/user-attachments/assets/d337681e-e95c-468a-917d-37112b8d7513" />
 An Arithmetic Logic Unit (ALU) is one of the most important components of a digital system and forms the core of a computer’s processor. The ALU is responsible for performing arithmetic and logical operations on binary data. Arithmetic operations include addition and subtraction, while logical operations include AND, OR, and NOT. In this project, a basic ALU was designed using Verilog Hardware Description Language (HDL) and simulated using Xilinx Vivado to verify its functionality.
 
 The designed ALU is a 4-bit combinational circuit that performs five operations: addition, subtraction, bitwise AND, bitwise OR, and bitwise NOT. The ALU takes two 4-bit input operands A and B and a 3-bit select signal (sel). The select signal determines which operation the ALU will perform. Based on the value of the select signal, the ALU produces a 4-bit result and a carry output. The carry output is mainly used in arithmetic operations such as addition and subtraction to indicate overflow or borrow conditions.
