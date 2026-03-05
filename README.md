@@ -5,7 +5,7 @@
 **INTERN ID** : CTIS6553
 **DURATION** : 8 WEEKS
 **MENTOR** : NEELA SANTOSH
-**DISCRIPTION** : Design and Simulation of a Basic ALU Using Verilog
+# **DISCRIPTION** : Design and Simulation of a Basic ALU Using Verilog
 
 An Arithmetic Logic Unit (ALU) is one of the most important components of a digital system and forms the core of the Central Processing Unit (CPU). The ALU is responsible for performing arithmetic and logical operations on binary data. These operations are essential for executing instructions in a processor. In this task, a basic 4-bit ALU was designed using the hardware description language **Verilog** and simulated using **Xilinx Vivado**. The ALU supports several fundamental operations such as addition, subtraction, AND, OR, and NOT.
 
